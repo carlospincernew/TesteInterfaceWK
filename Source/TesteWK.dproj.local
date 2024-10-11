@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/09 16:56:14.000.277,=C:\Users\Carlos\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/09 17:11:08.000.787,=C:\Users\Carlos\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/10/09 21:10:24.000.659,D:\TesteWK\Interface\uIProduto.pas=C:\Users\Carlos\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/10/09 21:10:44.000.143,D:\TesteWK\Interface\uIProduto2.dfm=C:\Users\Carlos\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/09 21:10:44.000.143,D:\TesteWK\Interface\uIProduto2.pas=C:\Users\Carlos\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/09 21:11:03.000.757,D:\TesteWK\TesteWK.dproj=C:\Users\Carlos\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/10/09 21:12:29.000.402,D:\TesteWK\View\uFrmPedido.dfm=D:\TesteWK\Interface\uIProduto2.dfm</Transaction>
+    <Transaction>2024/10/09 21:12:29.000.402,D:\TesteWK\View\uFrmPedido.pas=D:\TesteWK\Interface\uIProduto2.pas</Transaction>
+    <Transaction>2024/10/09 21:13:19.000.539,D:\TesteWK\Interface\uIProduto.pas=</Transaction>
+    <Transaction>2024/10/09 21:13:36.000.228,=D:\TesteWK\Interface\uIProduto.pas</Transaction>
+    <Transaction>2024/10/09 21:18:42.000.463,=D:\TesteWK\Unit1.pas</Transaction>
+    <Transaction>2024/10/09 21:19:08.000.229,D:\TesteWK\Model\uProduto.pas=D:\TesteWK\Unit1.pas</Transaction>
+    <Transaction>2024/10/09 22:19:17.000.317,=D:\TesteWK\Unit1.pas</Transaction>
+    <Transaction>2024/10/09 22:19:37.000.542,D:\TesteWK\Interface\uIPedido.pas=D:\TesteWK\Unit1.pas</Transaction>
+    <Transaction>2024/10/10 19:49:59.000.192,=D:\TesteWK\Model\uPedido.pas</Transaction>
+    <Transaction>2024/10/10 21:34:03.000.317,=D:\TesteWK\Source\uAttribute.pas</Transaction>
+    <Transaction>2024/10/11 03:14:30.000.124,D:\TesteWK\TesteWK.dproj=D:\TesteWK\Source\TesteWK.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
